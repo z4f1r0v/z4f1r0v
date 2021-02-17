@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @z4f1r0v
-- 👀 I’m interested in open-source
+- 👋 Hi, I’m Aλex.
+- 👀 I’m interested in open-source.
 - 🌱 I’m currently learning Laminar.
 - 💞️ I’m looking to collaborate on Scala, ZIO, Spark.
 - 📫 How to reach me zafirov.me
