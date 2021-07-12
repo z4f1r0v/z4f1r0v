@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Aλex.
-- 👀 I’m interested in open-source.
-- 🌱 I’m currently learning Laminar, ZIO.
-- 💞️ I’m looking to collaborate on Scala, ZIO, Spark.
-- 📫 Reach me zafirov.me
+- 👀 I’m interested in building data products that scale and are simple to use. 
+- 🌱 I’m currently learning Pandas and data analysis techniques.
+- 📫 Reach me at zafirov.me
 
 <!---
 z4f1r0v/z4f1r0v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
