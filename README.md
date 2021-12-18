@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aλex.
 - 👀 I’m interested in building data products that scale and are simple to use. 
-- 🌱 I’m currently learning Pandas and data analysis techniques.
+- 🌱 I’m currently Rust and Observability
 - 📫 Reach me at zafirov.me
 
 <!---
